@@ -23,5 +23,7 @@ public class App
         
         String resultado = "El promedio es: " + prom;
         JOptionPane.showMessageDialog(null, resultado);
+        
+        System.out.println("Hablate Pez desde GitHub, sigue programando");
     }
 }
